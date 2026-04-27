@@ -54,31 +54,31 @@ Blynk used for:
 
 
 Project Images-
-Smart Dustbin Setup-
+- Smart Dustbin Setup-
 Complete view of the smart dustbin system including Arduino, ESP32, sensors, and robotic cart.
 "Setup" (images/setup.jpg)
 
-Wiring Connection-
+- Wiring Connection-
 Close-up view of all hardware connections showing proper wiring between components.
 "Wiring" (images/wiring.jpg)
 
-Working Model-
+- Working Model-
 Demonstration of the dustbin in action (lid opening or movement).
 "Working" (images/working.jpg)
 
 
 Blynk App Screenshots-
-Control Dashboard-
+- Control Dashboard-
 Mobile interface used to control movement (Forward, Backward, Left, Right).
 "Dashboard" (images/blynk_dashboard.jpg)
 
-Dustbin Status (Full/Empty)-
+- Dustbin Status (Full/Empty)-
 Shows real-time garbage level status sent by ESP32.
 "Status" (images/blynk_status.jpg)
 
 
 Circuit Diagram-
-Below is the circuit diagram representing connections between Arduino, ESP32, sensors, and motor driver.
+- Below is the circuit diagram representing connections between Arduino, ESP32, sensors, and motor driver.
 "Circuit Diagram" (circuit_diagram/circuit.png)
 
 
